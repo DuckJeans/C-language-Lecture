@@ -1,10 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Program\\",
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\C-language-Lecture\\Program\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C32B11DC-27B3-4A6B-B2AB-4F9DDDB69F7A}|Program.vcxproj|C:\\Users\\User\\Desktop\\Program\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{C32B11DC-27B3-4A6B-B2AB-4F9DDDB69F7A}|Program.vcxproj|C:\\Users\\User\\Desktop\\C-language-Lecture\\Program\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{C32B11DC-27B3-4A6B-B2AB-4F9DDDB69F7A}|Program.vcxproj|solutionrelative:Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EF78CB7-39CD-4505-8E20-7DF182B9042D}|..\\Class 1th (Compile)\\Class 1th (Compile).vcxproj|C:\\Users\\User\\Desktop\\C-language-Lecture\\Class 1th (Compile)\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +17,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Source.c",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\C-language-Lecture\\Class 1th (Compile)\\Source.c",
+              "RelativeDocumentMoniker": "..\\Class 1th (Compile)\\Source.c",
+              "ToolTip": "C:\\Users\\User\\Desktop\\C-language-Lecture\\Class 1th (Compile)\\Source.c",
+              "RelativeToolTip": "..\\Class 1th (Compile)\\Source.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-03-17T09:06:39.886Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Source.c",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Program\\Source.c",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\C-language-Lecture\\Program\\Source.c",
               "RelativeDocumentMoniker": "Source.c",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Program\\Source.c",
+              "ToolTip": "C:\\Users\\User\\Desktop\\C-language-Lecture\\Program\\Source.c",
               "RelativeToolTip": "Source.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAADQAAAAAAAAAAAAAAEUAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2026-03-16T09:32:09.165Z",
               "EditorCaption": ""
