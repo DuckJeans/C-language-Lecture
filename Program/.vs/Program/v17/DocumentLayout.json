@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{C32B11DC-27B3-4A6B-B2AB-4F9DDDB69F7A}|Program.vcxproj|solutionrelative:Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4EF78CB7-39CD-4505-8E20-7DF182B9042D}|..\\Class 1th (Compile)\\Class 1th (Compile).vcxproj|C:\\Users\\User\\Desktop\\C-language-Lecture\\Class 1th (Compile)\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{95CEE334-1724-44BA-9351-274D727FBAF8}|..\\Class 2th\\Class 2th.vcxproj|C:\\Users\\User\\Desktop\\C-language-Lecture\\Class 2th\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,13 +23,13 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Source.c",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\C-language-Lecture\\Class 1th (Compile)\\Source.c",
-              "RelativeDocumentMoniker": "..\\Class 1th (Compile)\\Source.c",
-              "ToolTip": "C:\\Users\\User\\Desktop\\C-language-Lecture\\Class 1th (Compile)\\Source.c",
-              "RelativeToolTip": "..\\Class 1th (Compile)\\Source.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\C-language-Lecture\\Class 2th\\Source.c",
+              "RelativeDocumentMoniker": "..\\Class 2th\\Source.c",
+              "ToolTip": "C:\\Users\\User\\Desktop\\C-language-Lecture\\Class 2th\\Source.c",
+              "RelativeToolTip": "..\\Class 2th\\Source.c",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAFkAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2026-03-17T09:06:39.886Z",
+              "WhenOpened": "2026-03-18T09:08:32.835Z",
               "EditorCaption": ""
             },
             {
@@ -40,7 +40,7 @@
               "RelativeDocumentMoniker": "Source.c",
               "ToolTip": "C:\\Users\\User\\Desktop\\C-language-Lecture\\Program\\Source.c",
               "RelativeToolTip": "Source.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2026-03-16T09:32:09.165Z",
               "EditorCaption": ""
