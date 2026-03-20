@@ -2,63 +2,139 @@
 
 void main()
 {
-#pragma region 오버플로우
-    // 특정한 자료형이 표현할 수 있는 최댓값의 범위를
-    // 넘어서 연산을 수행하는 과정입니다.
+#pragma region if문
+	//어떤 특정한 조건을 비교하여 조건이 맞다면 실행되는
+	//명령문입니다.
 
-    // char storage = 127 + 1;
-    // 
-    // printf("storage의 값 : %d\n", storage);
+	//int health = 0;
+	//
+	//if (health <= 0)
+	//{
+	//	printf("플레이어 사망 (플레이어 체력 : %d)", health);
+	//}
 
-    // 오버플로우는 부호 없는 자료형에서도 똑같이 발생하며,
-    // 실수일 때 오버플로우가 발생하면 infinity라는 값으로 출력됩니다.
+	//if문은 조건이 1일 때 실행되며, 0일 때 실행되지 않습니다.
 #pragma endregion
 
-#pragma region 언더플로우
-    // 특정한 자료형이 표현할 수 있는 최솟값의 범위를
-    // 넘어서 연산을 수행하는 과정입니다.
+#pragma region else if문
+	//if문의 조건이 틀릴 때 else if문의 조건이
+	//맞다면 실행되는 명령문입니다.
 
-    // char data = -128 - 1;
-    // 
-    // printf("data 변수의 값 : %d\n", data);
-
-    // 언더플로우는 부호 없는 자료형에서도 똑같이 발생하며,
-    // 실수일 때 언더플로우가 발생하면 0이라는 값으로 출력합니다.
-#pragma endregion
-
-#pragma region 부호 없는 자료형
-
-    //unsigned int experience = 4294967295;
-
-    // [1111 1111] [1111 1111] [1111 1111] [1111 1111]
-    //printf("[signed] experience 변수의 값 : %d\n", experience);
-
-    // [1111 1111] [1111 1111] [1111 1111] [1111 1111]
-    //printf("[unsigned] experience 변수의 값 : %u\n", experience);
-#pragma endregion
-
-
-#pragma region 실수를 표현하는 방법
-
-    //float decimal = 3.3f;
-
-    //정수형 리터럴 상수는 저장하는 값의 범위가 크지 않으면
-    //int 자료형으로 표현되며, 실수형 리터럴 상수는 double
-    //자료형으로 표현됩니다.
-
-    //printf("decimal 변수의 값 : %.8f\n", decimal);
-
-    //표준 출력 함수로 실수를 출력할 때 4byte 크기의 실수형
-    //자료형은 소수점 이하 6자리까지만 표기하며, 8byte 크기의
-    //실수형 자료형은 소수점 이하 15자리까지만 표기합니다.
+	//int health = 50;
+	//
+	//if (health <= 0)
+	//{
+	//	printf("플레이어 사망");
+	//}
+	//else if (health > 0)
+	//{
+	//	printf("플레이어 생존");
+	//}
+	// else if문은 여러번 정의할 수 있으며, if문이
+	// 존재할 때 사용할 수 있습니다.
 
 #pragma endregion
 
-#pragma region 실수 형태의 (10)진수를 (2)진수로 변환하는 과정
+#pragma region else문
 
-    //10진수 실수 부분을 1.0이 될 때까지 계속 2로 곱한 다음
-    //곱한 결과의 정수 부분을 위에서 아래로 순서대로 정렬합니다.
+	//if문과 else if문의 조건이 다 틀리면
+	//실행되는 명령문입니다.
+
+	//int integer = 0;
+	//
+	//if (integer < 0)
+	//{
+	//	printf("0보다 작습니다.");
+	//}
+	//else if (integer > 0)
+	//{
+	//	printf("0입니다.");
+	//}
+	//else
+	//{
+	//	printf("0보다 큽니다.");
+	//}
+	//if문에 연결된 모든 조건문이 조건이 맞을 때
+	//가장 위에 있는 조건문만 실행됩니다.
+#pragma endregion
+
+#pragma region swtich문
+
+	// 어떤 결과에 따라 그 결과부터 실행되는 명령문입니다.
+	// switch문은 해당 조건이 완료되었을 때, break문이 없으면
+	// 나머지 밑에 있는 case문까지 계속 실행시키다가 종료합니다.
+
+	//char grade = 'F';
+	//
+	//switch (grade)
+	//{
+	//case 'A': printf("90~100");
+	//	break;
+	//case 'B': printf("89~80");
+	//	break;
+	//case 'C': printf("79~70");
+	//	break;
+	//case 'D': printf("69~60");
+	//	break;
+	//case 'F': printf("Lower than 60score");
+	//	break;
+	//default: printf("Null");
+	//	break;
+	//}
+	//switch문의 경우 조건에 해당하는 값에 따라 조건의
+	//위치로 이동합니다.
+#pragma endregion
+
+#pragma region 논리 연산자
+
+	
+#pragma endregion
+
+#pragma region AND 연산자
+	// 두 개의 조건이 다 성립될 때 실행되는 연산자입니다.
+
+	//int a = 10;
+	//int b = 20;
+	//
+	//if (a > 0 && b > 0)
+	//{
+	//	printf("true");
+	//}
+#pragma endregion
+
+#pragma region OR 연산자
+
+	//두 개의 조건 중에 하나라도 조건이 성립될 때 실행되는 연산자입니다.
+
+	//int a = 10;
+	//int b = 20;
+	//
+	//if (a < 0 || b > 0)
+	//{
+	//	printf("true");
+	//}
+
+	//조건문의 논리 표현식을 평가하는 도중에 결과가 이미 확정이 났다면, 그 이후의 평가는 생략합니다.
+#pragma endregion
+
+
+#pragma region NOT 연산자
+//하나의 조건을 반전시키는 연산자입니다.
+
+	int a = 0;
+
+	if (!a)
+	{
+		printf("true");
+	}
 
 #pragma endregion
+
+#pragma region 사분면
+
+
+
+#pragma endregion
+
 
 }

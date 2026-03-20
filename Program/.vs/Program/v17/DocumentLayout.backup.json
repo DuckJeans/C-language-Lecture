@@ -7,6 +7,9 @@
       "RelativeMoniker": "D:0:0:{C32B11DC-27B3-4A6B-B2AB-4F9DDDB69F7A}|Program.vcxproj|solutionrelative:Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{C11F426B-406F-45FA-B4AC-A9EC0C198EDD}|..\\Class 4th\\Class 4th.vcxproj|C:\\Users\\User\\Desktop\\C-language-Lecture\\Class 4th\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EC69DFE6-A827-4009-8FEE-7FB4DFF1ACED}|..\\Class 3th\\Class 3th.vcxproj|C:\\Users\\User\\Desktop\\C-language-Lecture\\Class 3th\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
@@ -20,11 +23,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Source.c",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\C-language-Lecture\\Class 4th\\Source.c",
+              "RelativeDocumentMoniker": "..\\Class 4th\\Source.c",
+              "ToolTip": "C:\\Users\\User\\Desktop\\C-language-Lecture\\Class 4th\\Source.c",
+              "RelativeToolTip": "..\\Class 4th\\Source.c",
+              "ViewState": "AgIAACUAAAAAAAAAAAAuwDQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-03-19T10:37:02.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Source.c",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\C-language-Lecture\\Class 3th\\Source.c",
               "RelativeDocumentMoniker": "..\\Class 3th\\Source.c",
@@ -32,12 +47,11 @@
               "RelativeToolTip": "..\\Class 3th\\Source.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAHYAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2026-03-19T09:33:24.724Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-19T09:33:24.724Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Source.c",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\C-language-Lecture\\Class 2th\\Source.c",
               "RelativeDocumentMoniker": "..\\Class 2th\\Source.c",
@@ -45,8 +59,7 @@
               "RelativeToolTip": "..\\Class 2th\\Source.c",
               "ViewState": "AgIAAEgAAAAAAAAAAAAAAFkAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2026-03-18T09:08:32.835Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-18T09:08:32.835Z"
             },
             {
               "$type": "Document",
@@ -56,7 +69,7 @@
               "RelativeDocumentMoniker": "Source.c",
               "ToolTip": "C:\\Users\\User\\Desktop\\C-language-Lecture\\Program\\Source.c*",
               "RelativeToolTip": "Source.c*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAADsAAAAAAAAAAAAAAHkAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2026-03-16T09:32:09.165Z",
               "EditorCaption": ""
