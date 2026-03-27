@@ -21,10 +21,9 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{640c6164-690d-4043-be85-123f49ea5398}</ProjectGuid>
-    <RootNamespace>Class6thIterationStatement</RootNamespace>
+    <ProjectGuid>{47fbf032-cad1-406c-a426-eea5076b0c1a}</ProjectGuid>
+    <RootNamespace>Class8thPointer</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>Class 6th (Iteration Statement)</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

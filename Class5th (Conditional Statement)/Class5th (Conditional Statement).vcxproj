@@ -24,6 +24,7 @@
     <ProjectGuid>{7e332f18-4ff2-4204-892f-a7dd9d21e0c7}</ProjectGuid>
     <RootNamespace>Class5thConditionalStatement</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>Class 5th (Conditional Statement)</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
