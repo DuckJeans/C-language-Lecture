@@ -10,6 +10,9 @@
       "AbsoluteMoniker": "D:0:0:{47FBF032-CAD1-406C-A426-EEA5076B0C1A}|..\\Class 8th (Pointer)\\Class 8th (Pointer).vcxproj|C:\\Users\\User\\Desktop\\C-language-Lecture\\Class 8th (Pointer)\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{46C8A4A3-11FD-48D8-8936-920BF0ABF77C}|..\\Class 9th (Array)\\Class 9th (Array).vcxproj|C:\\Users\\User\\Desktop\\C-language-Lecture\\Class 9th (Array)\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{72A1B29B-0879-434A-90E3-A813458C8781}|..\\Class7th (Preprocessor)\\Class7th (Preprocessor).vcxproj|C:\\Users\\User\\Desktop\\C-language-Lecture\\Class7th (Preprocessor)\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
@@ -35,8 +38,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Source.c",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\C-language-Lecture\\Class 9th (Array)\\Source.c",
+              "RelativeDocumentMoniker": "..\\Class 9th (Array)\\Source.c",
+              "ToolTip": "C:\\Users\\User\\Desktop\\C-language-Lecture\\Class 9th (Array)\\Source.c",
+              "RelativeToolTip": "..\\Class 9th (Array)\\Source.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-03-30T10:38:11.456Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -52,7 +67,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Source.c",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\C-language-Lecture\\Class5th (Conditional Statement)\\Source.c",
               "RelativeDocumentMoniker": "..\\Class5th (Conditional Statement)\\Source.c",
@@ -64,7 +79,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Source.c",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\C-language-Lecture\\Class 4th\\Source.c",
               "RelativeDocumentMoniker": "..\\Class 4th\\Source.c",
@@ -76,7 +91,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Source.c",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\C-language-Lecture\\Class 3th\\Source.c",
               "RelativeDocumentMoniker": "..\\Class 3th\\Source.c",
@@ -88,7 +103,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Source.c",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\C-language-Lecture\\Class 2th\\Source.c",
               "RelativeDocumentMoniker": "..\\Class 2th\\Source.c",
@@ -106,14 +121,14 @@
               "RelativeDocumentMoniker": "Source.c",
               "ToolTip": "C:\\Users\\User\\Desktop\\C-language-Lecture\\Program\\Source.c*",
               "RelativeToolTip": "Source.c*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHAAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2026-03-16T09:32:09.165Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Source.c",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\C-language-Lecture\\Class6th (Iteration Statement)\\Source.c",
               "RelativeDocumentMoniker": "..\\Class6th (Iteration Statement)\\Source.c",
@@ -125,7 +140,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Source.c",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\C-language-Lecture\\Class7th (Preprocessor)\\Source.c",
               "RelativeDocumentMoniker": "..\\Class7th (Preprocessor)\\Source.c",
