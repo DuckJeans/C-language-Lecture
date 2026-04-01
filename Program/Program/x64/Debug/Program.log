@@ -1,2 +1,4 @@
 ﻿  Source.c
+C:\Users\User\Desktop\C-language-Lecture\Program\Source.c(123,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'double'입니다.
+C:\Users\User\Desktop\C-language-Lecture\Program\Source.c(58,1): warning C4716: 'average': 값을 반환해야 합니다.
   Program.vcxproj -> C:\Users\User\Desktop\C-language-Lecture\Program\x64\Debug\Program.exe
