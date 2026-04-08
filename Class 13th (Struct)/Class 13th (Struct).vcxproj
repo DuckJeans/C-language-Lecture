@@ -21,10 +21,9 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{cad8fc6d-d290-4e58-90b6-2eff022d5999}</ProjectGuid>
-    <RootNamespace>Class12thDynamicAllocation</RootNamespace>
+    <ProjectGuid>{a01912c7-a711-4bcb-a3c6-101dd12343ad}</ProjectGuid>
+    <RootNamespace>Class13thStruct</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>Class 12th (Dynamic Allocation)</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
